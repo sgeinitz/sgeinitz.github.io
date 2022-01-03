@@ -1,7 +1,5 @@
----
 layout: page
-title: sgeinitz.github.io
----
+title: Steve Geinitz
 
 
 Hello world
