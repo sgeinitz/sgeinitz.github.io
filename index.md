@@ -1,6 +1,5 @@
 layout: page
-title: "sgeinitz.github.io"
-permalink: /
+title: Steve Geinitz
 
 
 Hello world
