@@ -17,10 +17,6 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.url }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
         <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
         {% if site.github.is_project_page %}
@@ -32,6 +28,11 @@
         {% endif %}
         <p class="view">Asst. Professor @ MSU Denver</a>
 
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -40,6 +41,9 @@
         </ul>
         {% endif %}
 
+      </header>
+      <section>
+
         <ul class="view">
           <li><a href="https://github.com/sgeinitz">GitHub</a></li>
           <li><a href="https://www.researchgate.net/profile/Steve-Geinitz">ResearchGate</a></li>
@@ -47,7 +51,7 @@
           <li><a href="https://msudenver.edu/cs">MSU CS Dept</a></li>
         </ul>
 
-      </header>
+      </section>
       <section>
 
       {{ content }}
