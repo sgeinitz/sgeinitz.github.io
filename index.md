@@ -1,6 +1,6 @@
 
 ## Bio/Background
-My name is Steve Geinitz and I’m an assistant professor at Metropolitan State University of Denver. I hold a PhD in Applied Statistics from the University of Zurich (under the supervision of Reinhard Furrer), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of utilizing data and science together to improve the company’s products/services. 
+My name is Steve Geinitz and I’m an assistant professor at Metropolitan State University of Denver. I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html) (under the supervision of [Reinhard Furrer](https://user.math.uzh.ch/furrer/)), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of utilizing data and science together to improve the company’s products/services. 
 
 ___
 
@@ -18,7 +18,7 @@ For interested MSU students there are a few projects available to work on. There
 This project is broad in scope and involves analyzing data and developing/implementing tools to help students to learn more effectively in introductory CS courses using Continuous Assessments (e.g. weekly quizzes) and Peer Instruction (e.g. in-class tasks/assignments completed by pairs or small groups of students working together). Given the broad scope, it’s possible to focus entirely on just one of the following.
 
 - **Creating content for continuous assessments (e.g. quizzes)** - create a library of quiz content on specific core CS topics at varying levels of difficulty to help students learn core CS concepts
-- **Carry out (reproducible) data analyses** - this is a Data Science type of task that involves writing Python code/notebooks to collect and analyze quiz/exam data (from Canvas); the two main parts of this task are 1) collecting the data, mostly via the Canvas API, and b) running statistical analyses on the data; an early version of this can be found at: [github.com/sgeinitz/picata](https://github.com/sgeinitz/picata)
+- **Carry out (reproducible) data analyses** - this is a Data Science type of task that involves writing Python code/notebooks to collect and analyze quiz/exam data (from Canvas); the two main parts of this task are 1) collecting the data, mostly via the Canvas API, and b) running statistical analyses on the data; an early version of this can be found at [github.com/sgeinitz/picata](https://github.com/sgeinitz/picata)
 - **Implementing communication tools** - this final task is to help automate the process of selecting pairs/small groups of students and given them a brief quiz/assignment, with a longer-term goal of offering students personalized study tips/guidance in a course; this will likely involve the creation of a chatbot or similar messaging tool
 
 
