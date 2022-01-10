@@ -19,11 +19,11 @@ This project is broad in scope and involves analyzing data and developing/implem
 
 - **Creating content for continuous assessments (e.g. quizzes)** - create a library of quiz content on specific core CS topics at varying levels of difficulty to help students learn core CS concepts
 - **Carry out (reproducible) data analyses** - this is a Data Science type of task that involves writing Python code/notebooks to collect and analyze quiz/exam data (from Canvas); the two main parts of this task are 1) collecting the data, mostly via the Canvas API, and b) running statistical analyses on the data; an early version of this can be found at: [github.com/sgeinitz/picata](https://github.com/sgeinitz/picata)
-- **Implementing communication tools (e.g. a chatbot)** - this final task is to help automate the process of selecting pairs/small groups of students and given them a brief quiz/assignment, with a longer-term goal of offering students personalized study tips/guidance in a course
+- **Implementing communication tools** - this final task is to help automate the process of selecting pairs/small groups of students and given them a brief quiz/assignment, with a longer-term goal of offering students personalized study tips/guidance in a course; this will likely involve the creation of a chatbot or similar messaging tool
 
 
 #### Natural Language Processing
-This project is about applying deep learning models to textual and sequential data with one a specific use-case of analyzing open-ended responses to surveys/quizzes. However, the possible applications of NLP are vast so if you are interested in applying NLP to another domain that is a possibility as well. For example, one other project in this area is to utilize an existing large language model (e.g. BERT) and fine-tune it to be used as a ‘Course Assistant’ in a CS course. This could involve implementing an MS Teams chatbot as well.
+This project is about applying deep learning models to textual and sequential data with one a specific use-case of analyzing open-ended responses to surveys/quizzes. However, the possible applications of NLP are vast so if you are interested in applying NLP to another domain that is a possibility as well. For example, one other project in this area is to utilize an existing large language model (e.g. BERT) and fine-tune it to be used as a ‘Course Assistant’ in a CS course. This may include aspects of the third task above (e.g. implementing an MS Teams chatbot as well).
 
 
 #### General Data Science/Machine Learning
