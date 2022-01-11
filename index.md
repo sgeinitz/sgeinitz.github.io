@@ -24,7 +24,7 @@ This project is broad in scope and involves analyzing data and developing/implem
 
 
 #### 2. Natural Language Processing
-This project is about applying deep learning models to textual and sequential data with one a specific use-case of analyzing open-ended responses to surveys/quizzes. However, the possible applications of NLP are vast so if you are interested in applying NLP to another domain that is a possibility as well. For example, one other project in this area is to utilize an existing large language model (e.g. BERT) and fine-tune it to be used as a ‘Course Assistant’ in a CS course. This may include aspects of the third task above (e.g. implementing an MS Teams chatbot as well).
+This project is about applying deep learning models to textual and sequential data with one a specific use-case of analyzing open-ended responses to surveys/quizzes. However, the possible applications of NLP are vast so if you are interested in applying NLP to another domain that is a possibility as well. For example, one other project in this area is to utilize an existing large language model (e.g. BERT) and fine-tune it to be used as a ‘Course Assistant’ in a CS course. This may include aspects of the third task above (e.g. implementing an MS Teams chatbot).
 
 
 #### 3. General Data Science/Machine Learning
