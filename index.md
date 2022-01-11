@@ -1,5 +1,5 @@
 ---
-title: SteveG
+title: Home
 ---
 
 ## Bio/Background
