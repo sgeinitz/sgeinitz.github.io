@@ -10,3 +10,5 @@ logo: /img/profile128.png
 profile_gh: /img/github48.png
 profile_rg: /img/linkedin48.png
 profile_li: /img/researchgate48.png
+page_css:
+  - /assets/css/custom.css
