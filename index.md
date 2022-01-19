@@ -11,14 +11,19 @@ ___
 - CS 3250: Intro to Software Development Methods and Tools
 - CS 4050: Algorithms and Algorithm Analysis
 
+## Fall'21 Courses
+- CS 2050: Computer Science 2
+- CS 39AA: NLP w/ Deep Learning
+- CS 4050: Algorithms and Algorithm Analysis
+
 ___
 
 ## Projects/Research
 For interested MSU students there are a few projects available to work on. There may be funding available to work on these, depending on the semester, but there is always the opportunity to extend these into a research project that can be published in [The Rowdy Scholar](https://www.msudenver.edu/rowdy-scholar/) or presented at the [Undergraduate Research Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/). Most of these projects revolve around Computer Science education or improving education with technology (yes, getting students into the computer science pipeline is another issue, but one which I haven’t delved into yet).
 
 
-#### 1. Improving student success rates in introductory CS courses
-This project is broad in scope and involves analyzing data and developing/implementing tools to help students to learn more effectively in introductory CS courses using Continuous Assessments (e.g. weekly quizzes) and Peer Instruction (e.g. in-class tasks/assignments completed by pairs or small groups of students working together). Given the broad scope, it’s possible to focus entirely on just one of the following.
+#### 1. Improving student success rates in CS courses
+This project is broad in scope and involves analyzing data and developing/implementing tools to help students to learn more effectively in core CS courses using Continuous Assessments (e.g. weekly quizzes) and Peer Instruction (e.g. in-class tasks/assignments completed by pairs or small groups of students working together). Given the broad scope, it’s possible to focus entirely on just one of the following.
 
 - **Creating content for continuous assessments (e.g. quizzes)** - create a library of quiz content on specific core CS topics at varying levels of difficulty to help students learn core CS concepts
 - **Carry out (reproducible) data analyses** - this is a Data Science type of task that involves writing Python code/notebooks to collect and analyze quiz/exam data (from Canvas); the two main parts of this task are 1) collecting the data, mostly via the Canvas API, and b) running statistical analyses on the data; an early version of this can be found at [github.com/sgeinitz/picata](https://github.com/sgeinitz/picata)
