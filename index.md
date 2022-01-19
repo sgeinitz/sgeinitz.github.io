@@ -8,11 +8,11 @@ My name is Steve Geinitz and I’m an assistant professor of [Computer Science a
 ___
 
 ## Teaching
-#### Spring'22 Courses
+#### Spring'22
 - CS 3250: Intro to Software Development Methods and Tools
 - CS 4050: Algorithms and Algorithm Analysis
 
-#### Fall'21 Courses
+#### Fall'21
 - CS 2050: Computer Science 2
 - CS 39AA: NLP w/ Deep Learning
 - CS 4050: Algorithms and Algorithm Analysis
