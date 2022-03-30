@@ -3,11 +3,16 @@ title: Home
 ---
 
 ## Bio/Background
-My name is Steve Geinitz and I’m an assistant professor of [Computer Science at Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html) (under the supervision of [Reinhard Furrer](https://user.math.uzh.ch/furrer/)), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of wielding both data and science to improve the company’s products/services. 
+My name is Steve Geinitz and I’m an assistant professor of [Computer Science at Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html) (under the supervision of [Reinhard Furrer](https://user.math.uzh.ch/furrer/)), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of wielding both data and science to improve the company’s products/services.
 
 ___
 
 ## Teaching
+
+#### Fall'22
+- CS 2240: Discrete Mathematics
+- CS 39AA: NLP w/ Deep Learning
+
 #### Spring'22
 - CS 3250: Intro to Software Development Methods and Tools
 - CS 4050: Algorithms and Algorithm Analysis
@@ -16,6 +21,7 @@ ___
 - CS 2050: Computer Science 2
 - CS 39AA: NLP w/ Deep Learning
 - CS 4050: Algorithms and Algorithm Analysis
+
 
 ___
 
