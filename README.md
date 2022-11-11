@@ -1,5 +1,5 @@
-![](https://github.com/sgeinitz/workflows/gh-pages%20Status/badge.svg)
 
-Repo for the website: [sgeinitz.github.io](https://sgeinitz.github.io)
+Repository for site: [sgeinitz.github.io](https://sgeinitz.github.io)
 
 
+[![pages-build-deployment](https://github.com/sgeinitz/sgeinitz.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sgeinitz/sgeinitz.github.io/actions/workflows/pages/pages-build-deployment)
