@@ -3,30 +3,28 @@ title: Home
 ---
 
 ## Bio/Background
-My name is Steve Geinitz and I’m an assistant professor of [Computer Science at Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html) (under the supervision of [Reinhard Furrer](https://user.math.uzh.ch/furrer/)), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of wielding both data and science to improve the company’s products/services.
+My name is Steve Geinitz and I’m an assistant professor of [Computer Science at Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of wielding both data and science to improve the company’s products/services.
 
 ___
 
 ## Teaching
 
-#### Fall'22
-- CS 2240: Discrete Mathematics
+#### Fall'23
 - CS 39AA: NLP w/ Deep Learning
-
-#### Spring'22
+- CS 3240: Theory of Computation
+- CS 2240: Discrete Structures (Discrete Mathematics for CS)
+  
+### Past Course
+- CS 4050: Algorithms and Algorithm Analysis
 - CS 3250: Intro to Software Development Methods and Tools
-- CS 4050: Algorithms and Algorithm Analysis
-
-#### Fall'21
 - CS 2050: Computer Science 2
-- CS 39AA: NLP w/ Deep Learning
-- CS 4050: Algorithms and Algorithm Analysis
+ 
 
 
 ___
 
 ## Projects/Research
-For interested MSU students there are a few projects available to work on. There may be funding available to work on these, depending on the semester, but there is always the opportunity to extend these into a research project that can be published in [The Rowdy Scholar](https://www.msudenver.edu/rowdy-scholar/) or presented at the [Undergraduate Research Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/). Most of these projects revolve around Computer Science education or improving education with technology (yes, getting students into the computer science pipeline is another issue, but one which I haven’t delved into yet).
+For interested students, there are a few projects available to work on. There may be funding available to work on these, depending on the semester, but there is always the opportunity to extend these into a research project. Within MSU, a project can culminate in [Rowdy Scholar](https://www.msudenver.edu/rowdy-scholar/) publication, or presentation at the [Undergraduate Research Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/). All of these projects revolve around Computer Science education or improving education with technology (yes, getting students into the computer science pipeline is another issue, but one which I haven’t delved into yet).
 
 
 #### 1. Improving student success rates in CS courses
