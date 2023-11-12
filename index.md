@@ -24,7 +24,7 @@ ___
 ___
 
 ## Projects/Research
-For interested students, there are a few projects available to work on. There may be funding available to work on these, depending on the semester, but there is always the opportunity to extend these into a research project. Within MSU, a project can culminate in [Rowdy Scholar](https://www.msudenver.edu/rowdy-scholar/) publication, or presentation at the [Undergraduate Research Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/). All of these projects revolve around Computer Science education or improving education with technology (yes, getting students into the computer science pipeline is another issue, but one which I haven’t delved into yet).
+For interested students, there are a few projects available to work on. There may be funding available to work on these, depending on the semester, but there is always the opportunity to extend these into a research project. Within MSU, a project can culminate in [Rowdy Scholar](https://www.msudenver.edu/rowdy-scholar/) publication, or presentation at the [Undergraduate Research Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/). All of these projects revolve around enhancing education and teaching with technology. 
 
 
 #### 1. Development of a Digital TA
