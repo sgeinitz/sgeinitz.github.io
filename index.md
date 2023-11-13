@@ -3,7 +3,7 @@ title: Home
 ---
 
 ## Bio/Background
-My name is Steve Geinitz and I’m an assistant professor of [Computer Science at Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of wielding both data and science to improve the company’s products/services.
+My name is Steve Geinitz and I’m an assistant professor of [Computer Science at Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied Statistics from the [University of Zurich](https://www.uzh.ch/en.html), an MSc in Computer Science, and BSc’s in Computer Science and Mathematics. My professional experience ranges from small start-ups to large global tech companies, but always with an aim of wielding data science and machine learning to improve the company’s products and services.
 
 ___
 
