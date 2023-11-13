@@ -30,8 +30,8 @@ For interested students, there are a few projects available to work on. There ma
 #### 1. Development of a Digital TA
 Currently a set of Python scripts are used to facilitate the past project, PICA: A data-driven synthesis of Peer Instruction and Continuous Assessment. In the future, this rudimentary Python program named [picata](https://github.com/sgeinitz/picata) will be exanded and generalized to allow for other tasks such as creating LLM-generated follow-up quizzes and individual quiz questions (2.) for students based on concepts that they are struggling with in the course (3.). 
 
-#### 2. LLM-generated Instruments
-
+#### 2. LLM-generated Follow-up Assessments
+This project focuses on leveraging existing LLMs to create dynamic educational tools that can pinpoint concepts students are individually struggling to grasp. Specifically, the aim is to sophisticated systems that can automatically generate diverse educational materials, such as tailored quiz questions, interactive learning modules, and personalized study guides. These tools are designed to adapt to individual student needs, enhancing their learning experience and understanding of complex computer science concepts.
 
 #### 3. Knowledge Tracing
 
