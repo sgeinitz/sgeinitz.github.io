@@ -28,13 +28,15 @@ For interested students, there are a few projects available to work on. There ma
 
 
 #### 1. Development of a Digital TA
-Currently a set of Python scripts are used to facilitate the past project, PICA: A data-driven synthesis of Peer Instruction and Continuous Assessment. In the future, this rudimentary Python program named [picata](https://github.com/sgeinitz/picata) will be exanded and generalized to allow for other tasks such as creating LLM-generated follow-up quizzes and individual quiz questions (2.) for students based on concepts that they are struggling with in the course (3.). 
+Currently a set of Python scripts are used to facilitate the past project, PICA: A data-driven synthesis of Peer Instruction and Continuous Assessment. This [rudimentary set of scripts](https://github.com/sgeinitz/picata) will evolve to become a more sophisticated stand-alone tool to assist instructors in utilizing and experimenting with technology-enhanced learning methods and techniques. 
 
 #### 2. LLM-generated Follow-up Assessments
 This project focuses on leveraging existing LLMs to create dynamic educational tools that can pinpoint concepts students are individually struggling to grasp. Specifically, the aim is to sophisticated systems that can automatically generate diverse educational materials, such as tailored quiz questions, interactive learning modules, and personalized study guides. These tools are designed to adapt to individual student needs, enhancing their learning experience and understanding of complex computer science concepts.
 
-#### 3. Knowledge Tracing
-
+#### 3. Unsupervised Knowledge Tracing
+At the core of this project is the development of advanced algorithms for tracking and analyzing student learning trajectories based solely on their quiz results. The goal is to implement machine learning techniques to accurately predict students' future performance and identify areas where they might struggle. This knowledge tracing system will provide valuable insights into the learning process, enabling more effective and personalized educational support. 
 
 #### 4. General Data Science/Machine Learning
-Although not an explicit project, if you are interested in competing in Kaggle competitions, or have some other Data Science or Machine Learning task that you would like to tackle but with support, feel free to reach out for consulting and possible mentorship. 
+Although not an explicit project, if you are interested in competing in Kaggle competitions, or have some other Data Science or Machine Learning task that you would like to tackle but with support, feel free to reach out for consulting and possible mentorship.
+
+## Publications/Presentations
