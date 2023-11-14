@@ -39,4 +39,7 @@ At the core of this project is the development of advanced algorithms for tracki
 #### 4. General Data Science/Machine Learning
 Although not an explicit project, if you are interested in competing in Kaggle competitions, or have some other Data Science or Machine Learning task that you would like to tackle but with support, feel free to reach out for consulting and possible mentorship.
 
+--- 
+
 ## Publications/Presentations
+
