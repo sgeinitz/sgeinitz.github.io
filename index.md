@@ -18,7 +18,6 @@ ___
 - CS 39AA: Natural Language Processing w/ Deep Learning
 - CS 3240: Theory of Computation
 - CS 3250: Intro to Software Development Methods and Tools
-- CS 2240: Discrete Structures (Discrete Mathematics for CS)
 - CS 2050: Computer Science 2
  
 
