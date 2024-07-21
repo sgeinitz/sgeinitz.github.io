@@ -9,14 +9,16 @@ ___
 
 ## Teaching
 
-#### Fall'23
-- CS 39AA: NLP w/ Deep Learning
-- CS 3240: Theory of Computation
+#### Fall'24
+- CS 3120: Introduction to Machine Learning
 - CS 2240: Discrete Structures (Discrete Mathematics for CS)
   
 #### Past Course
 - CS 4050: Algorithms and Algorithm Analysis
+- CS 39AA: Natural Language Processing w/ Deep Learning
+- CS 3240: Theory of Computation
 - CS 3250: Intro to Software Development Methods and Tools
+- CS 2240: Discrete Structures (Discrete Mathematics for CS)
 - CS 2050: Computer Science 2
  
 
@@ -24,20 +26,45 @@ ___
 ___
 
 ## Projects/Research
-For interested students, there are a few projects available to work on. There may be funding available to work on these, depending on the semester, but there is always the opportunity to extend these into a research project. Within MSU, a project can culminate in [Rowdy Scholar](https://www.msudenver.edu/rowdy-scholar/) publication, or presentation at the [Undergraduate Research Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/). All of these projects revolve around enhancing education and teaching with technology. 
+For interested students, there are a few projects available to work on. There
+may be funding available to work on these, depending on the semester, but there
+is always the opportunity to extend these into a research project. Within MSU,
+a project can culminate in publication in the [Rowdy
+Scholar](https://www.msudenver.edu/rowdy-scholar/), a presentation
+at the [Undergraduate Research
+Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/), or a publication in an academic journal.
 
 
 #### 1. Development of a Digital TA
-Currently a set of Python scripts are used to facilitate the past project, PICA: A data-driven synthesis of Peer Instruction and Continuous Assessment. This [rudimentary set of scripts](https://github.com/sgeinitz/picata) will evolve to become a more sophisticated stand-alone tool to assist instructors in utilizing and experimenting with technology-enhanced learning methods and techniques. 
+Currently a set of Python scripts are used to facilitate the past project,
+PICA: A data-driven synthesis of Peer Instruction and Continuous Assessment.
+This [rudimentary set of scripts](https://github.com/sgeinitz/picata) will
+evolve to become a more sophisticated stand-alone tool to assist instructors in
+utilizing and experimenting with technology-enhanced learning methods and
+techniques. 
 
 #### 2. LLM-generated Follow-up Assessments
-This project focuses on leveraging existing LLMs to create dynamic educational tools that can pinpoint concepts students are individually struggling to grasp. Specifically, the aim is to sophisticated systems that can automatically generate diverse educational materials, such as tailored quiz questions, interactive learning modules, and personalized study guides. These tools are designed to adapt to individual student needs, enhancing their learning experience and understanding of complex computer science concepts.
+This project focuses on leveraging existing LLMs to create dynamic educational
+tools that can pinpoint concepts students are individually struggling to grasp.
+Specifically, the aim is to create a system that can 
+generate diverse educational materials such as tailored quiz questions,
+interactive learning modules, and personalized study guides. These tools are
+designed to adapt to individual student needs, enhancing their learning
+experience and understanding of complex computer science concepts.
 
 #### 3. Unsupervised Knowledge Tracing
-At the core of this project is the development of advanced algorithms for tracking and analyzing student learning trajectories based solely on their quiz results. The goal is to implement machine learning techniques to accurately predict students' future performance and identify areas where they might struggle. This knowledge tracing system will provide valuable insights into the learning process, enabling more effective and personalized educational support. 
+At the core of this project is the development of advanced algorithms for
+tracking and analyzing student learning trajectories based solely on their quiz
+results. The goal is to implement machine learning techniques to accurately
+predict students' future performance and identify areas where they might
+struggle. This knowledge tracing system will provide valuable insights into the
+learning process, enabling more effective and personalized educational support. 
 
 #### 4. General Data Science/Machine Learning
-Although not an explicit project, if you are interested in competing in Kaggle competitions, or have some other Data Science or Machine Learning task that you would like to tackle but with support, feel free to reach out for consulting and possible mentorship.
+Although not an explicit project, if you are interested in competing in Kaggle
+competitions, or have some other Data Science or Machine Learning task that you
+would like to tackle but with support, feel free to reach out for consulting
+and possible mentorship.
 
 --- 
 
