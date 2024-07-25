@@ -105,11 +105,11 @@ to reach out.
 
 ## Recent Publications/Presentations
 
-* _Dynamic Duo: Enhancing Collaborative Learning through Strategic Student
-  Pairings_.  To be presented at [International Conference on Interactive
-  Collaborative Learning](https://icl-conference.org/current/), September, 2024. 
+_Dynamic Duo: Enhancing Collaborative Learning through Strategic Student
+Pairings_.  To be presented at [International Conference on Interactive
+Collaborative Learning](https://icl-conference.org/current/), September, 2024. 
 
-* _PICA: A Data-driven Synthesis of Peer Instruction and Continuous
-  Assessment_. Presented at [Responsible Knowledge Discovery in Education
-  (RKDE) Workshop](http://rkde2023.isti.cnr.it/) at ECML-PKDD, September, 2023. 
+_PICA: A Data-driven Synthesis of Peer Instruction and Continuous Assessment_.
+Presented at [Responsible Knowledge Discovery in Education (RKDE)
+Workshop](http://rkde2023.isti.cnr.it/) at ECML-PKDD, September, 2023. 
 
