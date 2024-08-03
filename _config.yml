@@ -10,5 +10,6 @@ logo: /img/profile128.png
 profile_gh: /img/github32.png
 profile_li: /img/linkedin32.png
 profile_rg: /img/researchgate32.png
+profile_gs: /img/googlescholar32.png
 page_css:
   - /assets/css/custom.css
