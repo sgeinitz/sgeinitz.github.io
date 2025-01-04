@@ -13,7 +13,8 @@ companies, but always with an aim of wielding data science and machine learning
 to improve an organization's/company’s products and services. This underlying
 goal continues in education as well, where I am developing and experimenting
 with novel pedagogical techniques to improve student outcomes. 
-A full CV can be found [here](https://sgeinitz.github.io/cv/file.pdf).
+A full CV can be found [here](https://sgeinitz.github.io/cv/geinitz_cv.pdf).
+
 ___
 
 ## Teaching
