@@ -13,20 +13,23 @@ companies, but always with an aim of wielding data science and machine learning
 to improve an organization's/company’s products and services. This underlying
 goal continues in education as well, where I am developing and experimenting
 with novel pedagogical techniques to improve student outcomes. 
+A full CV can be found [here](link). 
 
 ___
 
 ## Teaching
 
-#### Fall'24
-- CS 3120: Introduction to Machine Learning
-- CS 2240: Discrete Structures (Discrete Mathematics for CS)
+#### Spring'25
+- CS 4050: Algorithms and Algorithm Analysis
+- DSML 4220: Deep Learning
   
 #### Past Course
 - CS 4050: Algorithms and Algorithm Analysis
 - CS 39AA: Natural Language Processing w/ Deep Learning
 - CS 3240: Theory of Computation
 - CS 3250: Intro to Software Development Methods and Tools
+- CS 3120: Introduction to Machine Learning
+- CS 2240: Discrete Structures (Discrete Mathematics for CS)
 - CS 2050: Computer Science 2 - Data Structures
  
 
@@ -105,11 +108,17 @@ to reach out.
 
 ## Recent Publications/Presentations
 
-_Dynamic Duo: Enhancing Collaborative Learning through Strategic Student
-Pairings_.  To be presented at [International Conference on Interactive
-Collaborative Learning](https://icl-conference.org/current/), September, 2024. 
+Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the Pedagogical Potential:\ An 
+Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom._ (under review).
 
-_PICA: A Data-driven Synthesis of Peer Instruction and Continuous Assessment_.
+Geinitz, S. _Improving Student Learning and Socialization via
+Technology-Enhanced Collaboration._
+International Journal of Technology Enhanced Learning, 2025 (in press). \\ \\
+
+Geinitz, S. _Dynamic Duo: Enhancing Collaborative Learning through Strategic Student Pairings._
+Presented at [International Conference on Interactive Collaborative Learning](https://icl-conference.org/current/), September 2024 (conference proceedings in press). 
+
+Geinitz, S. _PICA: A Data-driven Synthesis of Peer Instruction and Continuous Assessment._
 Presented at [Responsible Knowledge Discovery in Education (RKDE)
 Workshop](http://rkde2023.isti.cnr.it/) at ECML-PKDD, September, 2023. 
 
