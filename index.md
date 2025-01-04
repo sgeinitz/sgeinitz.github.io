@@ -22,23 +22,24 @@ ___
 #### Spring'25
 - CS 4050: Algorithms and Algorithm Analysis
 - DSML 4220: Deep Learning
+
+#### Fall'24
+- CS 2240: Discrete Structures (Discrete Mathematics for CS)
+- CS 3120: Introduction to Machine Learning
   
-#### Past Course
+#### Other Courses
 - CS 4050: Algorithms and Algorithm Analysis
 - CS 39AA: Natural Language Processing w/ Deep Learning
 - CS 3240: Theory of Computation
 - CS 3250: Intro to Software Development Methods and Tools
-- CS 3120: Introduction to Machine Learning
-- CS 2240: Discrete Structures (Discrete Mathematics for CS)
 - CS 2050: Computer Science 2 - Data Structures
- 
 
 
 ___
 
 ## Projects/Research
 For interested students, there are a few projects available to work on. There
-may be funding available to work on these, depending on the semester, but there
+may be funding available to work on these depending on the semester, but there
 is always the opportunity to extend these into a research project. Within MSU,
 a project can culminate in publication in the [Rowdy
 Scholar](https://www.msudenver.edu/rowdy-scholar/), a presentation at the
