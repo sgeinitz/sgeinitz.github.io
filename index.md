@@ -28,7 +28,6 @@ ___
 - CS 3120: Introduction to Machine Learning
   
 #### Other Courses
-- CS 4050: Algorithms and Algorithm Analysis
 - CS 39AA: Natural Language Processing w/ Deep Learning
 - CS 3240: Theory of Computation
 - CS 3250: Intro to Software Development Methods and Tools
@@ -36,6 +35,22 @@ ___
 
 
 ___
+
+## Recent Publications/Presentations
+
+Geinitz, S., Rajan, R., Peprah, K., Schmidt, K., Singh, S., Jay, S. _Generative AI as a Tool for Learning: Higher Education Student Perceptions and Performance across Disciplines_ (in progress) 
+
+Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom._ (under review).
+
+Geinitz, S. _Improving Student Learning and Socialization via
+Technology-Enhanced Collaboration._ International Journal of Technology Enhanced Learning, 2025 (in press). 
+
+Geinitz, S. _Dynamic Duo: Enhancing Collaborative Learning through Strategic Student Pairings._
+Presented at [International Conference on Interactive Collaborative Learning](https://icl-conference.org/current/), September, 2024 (conference proceedings in press). 
+
+Geinitz, S. (2023, September). [PICA: A Data-Driven Synthesis of Peer Instruction and Continuous Assessment.](https://link.springer.com/chapter/10.1007/978-3-031-74627-7_1) In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 3-17). Cham: Springer Nature Switzerland.
+
+---
 
 ## Projects/Research
 For interested students, there are a few projects available to work on. There
@@ -105,19 +120,5 @@ competitions, or have some other Data Science or Machine Learning task that you
 would like to tackle but would like some support or mentorship, then feel free
 to reach out.
 
---- 
 
-## Recent Publications/Presentations
-
-Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom._ (under review).
-
-Geinitz, S. _Improving Student Learning and Socialization via
-Technology-Enhanced Collaboration._ International Journal of Technology Enhanced Learning, 2025 (in press). 
-
-Geinitz, S. _Dynamic Duo: Enhancing Collaborative Learning through Strategic Student Pairings._
-Presented at [International Conference on Interactive Collaborative Learning](https://icl-conference.org/current/), September, 2024 (conference proceedings in press). 
-
-Geinitz, S. _PICA: A Data-driven Synthesis of Peer Instruction and Continuous Assessment._
-Presented at [Responsible Knowledge Discovery in Education (RKDE)
-Workshop](http://rkde2023.isti.cnr.it/) at ECML-PKDD, September, 2023. 
 
