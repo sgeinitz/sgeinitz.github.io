@@ -45,8 +45,9 @@ Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the Pedagogica
 Geinitz, S. _Improving Student Learning and Socialization via
 Technology-Enhanced Collaboration._ International Journal of Technology Enhanced Learning, 2025 (in press). 
 
-Geinitz, S. _Dynamic Duo: Enhancing Collaborative Learning through Strategic Student Pairings._
-Presented at [International Conference on Interactive Collaborative Learning](https://icl-conference.org/current/), September, 2024 (conference proceedings in press). 
+Geinitz, Steve. _Dynamic Duo: Enhancing Collaborative Learning Through
+Strategic Student Pairings._ International Conference on Interactive
+Collaborative Learning. Cham: Springer Nature Switzerland, 2024.
 
 Geinitz, S. (2023, September). [PICA: A Data-Driven Synthesis of Peer Instruction and Continuous Assessment.](https://link.springer.com/chapter/10.1007/978-3-031-74627-7_1) In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 3-17). Cham: Springer Nature Switzerland.
 
