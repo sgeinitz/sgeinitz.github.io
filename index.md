@@ -19,20 +19,24 @@ ___
 
 ## Teaching
 
+#### Spring'25
+- CS 3120: Introduction to Machine Learning
+- DSML 4220: Deep Learning
+
 #### Fall'25
 - CS 4050: Algorithms and Algorithm Analysis
 - CS 3120: Introduction to Machine Learning
 
 #### Spring'25
-- CS 4050: Algorithms and Algorithm Analysis
 - DSML 4220: Deep Learning
 
 #### Other Courses
-- CS 39AA: Natural Language Processing w/ Deep Learning
-- CS 3240: Theory of Computation
+- CS 2050: Computer Science 2 - Data Structures
 - CS 3250: Intro to Software Development Methods and Tools
 - CS 2240: Discrete Structures (Discrete Mathematics for CS)
-- CS 2050: Computer Science 2 - Data Structures
+- CS 3240: Theory of Computation
+- CS 4050: Algorithms and Algorithm Analysis
+- CS 39AA: Natural Language Processing w/ Deep Learning
 
 
 ___
@@ -40,6 +44,8 @@ ___
 ## Recent Publications/Presentations
 
 Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom._ (under review).
+
+Geinitz, S., _ArguBot Arena: Prompt Engineering a Debate on Responsible AI._ [EAAI-2026](https://eaai-conf.github.io): The Sixteenth Symposium on Educational Advances in Artificial Intelligence; [Model AI Assignments Track](http://modelai.gettysburg.edu) (Jan 24-26, 2026). 
 
 Geinitz, S., Rajan, R., Peprah, K., Schmidt, K., Singh, S., Jay, S. _Generative AI as a Tool for Learning: Higher Education Student Perceptions and Performance across Disciplines._ International Conference on Intelligent Multimodal Communication and Learning Technologies, 2025 (in press). 
 
