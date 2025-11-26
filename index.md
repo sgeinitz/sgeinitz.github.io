@@ -19,15 +19,16 @@ ___
 
 ## Teaching
 
-#### Spring'25
+#### Spring 2026
 - CS 3120: Introduction to Machine Learning
 - DSML 4220: Deep Learning
 
-#### Fall'25
+#### Fall 2025
 - CS 4050: Algorithms and Algorithm Analysis
 - CS 3120: Introduction to Machine Learning
 
-#### Spring'25
+#### Spring 2025
+- CS 4050: Algorithms and Algorithm Analysis
 - DSML 4220: Deep Learning
 
 #### Other Courses
@@ -35,7 +36,6 @@ ___
 - CS 3250: Intro to Software Development Methods and Tools
 - CS 2240: Discrete Structures (Discrete Mathematics for CS)
 - CS 3240: Theory of Computation
-- CS 4050: Algorithms and Algorithm Analysis
 - CS 39AA: Natural Language Processing w/ Deep Learning
 
 
