@@ -70,7 +70,7 @@ Scholar](https://www.msudenver.edu/rowdy-scholar/), a presentation at the
 Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/),
 or a publication in an academic journal.
 
-#### Canvigator: A digital teaching assistant for the Canvas LMS
+#### Canvigator: A digital teaching assistant for Canvas
 [Canvigator](https://github.com/sgeinitz/canvigator) is an evolving piece of
 software built on top of the Canvas LMS that provides additional utilities and
 enhances tried-and-true instructional methods. Longer-term development goals
