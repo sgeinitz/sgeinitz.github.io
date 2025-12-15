@@ -17,10 +17,13 @@
 .left-navigation a:hover { text-decoration: underline; }
 
 .site-body { display: flex; gap: 2rem; align-items: flex-start; }
-.content { flex: 1; padding: 1rem 0; max-width: 60rem; }
+.left-nav { flex: 0 0 220px; }
+.left-navigation { width: 100%; box-sizing: border-box; }
+.content { flex: 1 1 0%; min-width: 0; padding: 1rem 0; max-width: 60rem; }
 
 @media (max-width: 800px) {
   .site-body { flex-direction: column; }
+  .left-nav { flex: none; }
   .left-navigation { width: auto; position: static; border-right: none; background: transparent; padding: 0; }
 }
 
