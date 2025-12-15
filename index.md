@@ -70,63 +70,31 @@ Scholar](https://www.msudenver.edu/rowdy-scholar/), a presentation at the
 Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarship-program/undergraduate-research-conference/),
 or a publication in an academic journal.
 
+#### Canvigator: A digital teaching assistant for the Canvas LMS
+[Canvigator](https://github.com/sgeinitz/canvigator) is an evolving piece of
+software built on top of the Canvas LMS that provides additional utilities and
+enhances tried-and-true instructional methods. Longer-term development goals
+include the integration of machine-learning models that can provide
+personalized follow-up assessments, predict student performance trajectories,
+and provide the instructor with detailed insights about how students are
+progressing through the course content.
 
-#### 1. Digital Teaching Assistant for Canvas
-Currently a set of Python scripts are used to facilitate the collaborative
-quizzes given in the courses I teach. This includes assigning students
-a partner to work on the quiz with and awarding collaboration bonuses.  The
-Python code for doing this is located in this
-[repository](https://github.com/sgeinitz/picata), but it is quite rudimentary
-right now.  Longer term the goal is to develop this code into a more
-sophisticated stand-alone tool to assist instructors in utilizing and
-experimenting with these types of collaborative quizzes. This software can be
-further developed in the future to send students personalized follow-up quiz
-questions through Canvas, and to have their responses graded and scored. 
+* Benefits and usage examples: By automating collaborative quizzes, intelligently assigning student pairs, generating tailored follow-up questions, and analyzing quiz outcomes to highlight where students may need support, Canvistant helps reduce administrative overhead and provides richer visibility into class learning patterns.
 
-#### 2. Knowledge Tracing
-At the core of this project is the development of advanced algorithms for
-tracking and analyzing student learning trajectories based solely on their quiz
-results. The goal is to implement machine learning techniques to accurately
-predict students' future performance and identify areas where they might
-struggle. This knowledge tracing system will provide valuable insights into the
-learning process, enabling more effective and personalized educational support.
-Knowledge Tracing is a developed concept in educational research related to
-data mining and learning systems (see this [survey
-paper](https://dl.acm.org/doi/full/10.1145/3569576) for more info).  However,
-here is a simple example to help explain:
-
-Imagine a student has taken several quizzes in their Discrete Math class.  The
-quizzes each had several questions, and each question covered a specific topic
-or concept. Suppose there is a new quiz that the student will take the next
-time they are in class. Given how they scored on each of the questions on the
-previous quizzes, we want to predict how the student will score for each
-individual question on the new quiz. While the scope of this example is rather
-small, you can imagine how being able to make accurate predictions would be
-very helpful, since it would allow us to personalize a student's learning and 
-optimize their learning journey overall. 
-
-#### 3. LLM-generated Follow-up Assessments
-This project focuses on leveraging LLMs to create personalized quiz questions
-and study tools for students. Unlike the two projects above, this one is
-focused more on the use of language models to analyze past quiz questions (to
-understand what concept they cover), and then to generate a new quiz question
-or study task over a given concept and that is similar to the past questions
-the student saw. 
-For example, suppose it has already been determine that a student in Discrete Mathematics needs
-extra help with Counting Techniques (e.g. combinations, permutations). The goal would then be
-to generate a new problem or quiz question on Counting Techniques, and this new
-question/problem should be of similar difficulty (or perhaps easier or harder). 
-
-All of the above projects would eventually lead to creating tools designed to
-adapt to individual student needs, to enhance their learning experience, and
-improve their understanding of complex computer science concepts.
+* Skills a student researcher needs to contribute: Useful preparation includes Python programming and basic software-engineering practices. Experience with machine learning and/or data analysis is helpful but not required. More importantly, a curiosity about learning analytics and a willingness to work iteratively on applied software systems is what is needed.
 
 
-#### 4. General Data Science/Machine Learning
-Although not an explicit project, if you are interested in competing in Kaggle
-competitions, or have some other Data Science or Machine Learning task that you
-would like to tackle but would like some support or mentorship, then feel free
-to reach out.
+#### Technology-Enhanced Pedagogical Methods
+This line of research investigates and develops scalable, technology-supported
+extensions of proven teaching strategies such as collaborative learning, peer
+instruction, and continuous assessment. The goal is to design digital tools and
+algorithms that help instructors implement these practices more effectively and
+personalize them to the needs of different learners. Research threads may
+include modeling student knowledge over time (e.g. knowledge tracing),
+generating formative assessments, and evaluating how technology influences
+participation, understanding, and academic outcomes.
 
+* Benefits and usage examples: These methods can support dynamic student pairings, adaptive quizzes, data-informed study recommendations, and real-time feedback loops between students and instructors. Benefits include improved engagement, more accurate identification of at-risk learners, and enhanced opportunities for students to learn through structured collaboration.
 
+* Skills a student researcher needs to contribute: A background in statistics or machine learning is valuable, as is familiarity with Python or another language for data analysis. Students interested in educational techniques, human-centered computing, and/or experimentation in educational settings will find natural entry points. A comfort with designing small studies or analyzing data is also useful. Above all, most important is a desire to improve student outcomes and a willingness to commit to carrying out a study from start to finish.
 
