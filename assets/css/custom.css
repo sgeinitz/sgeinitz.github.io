@@ -1,30 +1,3 @@
-/* Custom page styles */
-
-.left-navigation {
-  width: 220px;
-  padding: 1rem;
-  position: sticky;
-  top: 1.5rem;
-  align-self: start;
-  background: #f9f9f9;
-  border-right: 1px solid #eee;
-  border-radius: 4px;
-}
-.left-navigation h2 { font-size: 0.95rem; margin-top: 0; }
-.left-navigation ul { list-style: none; padding-left: 0; margin: 0; }
-.left-navigation li { margin: 0.4rem 0; }
-.left-navigation a { color: #0366d6; text-decoration: none; }
-.left-navigation a:hover { text-decoration: underline; }
-
-.site-body { display: flex; gap: 2rem; align-items: flex-start; }
-.left-nav { flex: 0 0 220px; }
-.left-navigation { width: 100%; box-sizing: border-box; }
-.content { flex: 1 1 0%; min-width: 0; padding: 1rem 0; max-width: 60rem; }
-
-@media (max-width: 800px) {
-  .site-body { flex-direction: column; }
-  .left-nav { flex: none; }
-  .left-navigation { width: auto; position: static; border-right: none; background: transparent; padding: 0; }
-}
-
-.padded img { padding-left: 35em; padding-right: 35em; }
+<style type="text/css"> 
+.padded img { padding-left: 35em; padding-right: 35em; } 
+</style>
