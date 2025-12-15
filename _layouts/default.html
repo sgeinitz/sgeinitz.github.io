@@ -63,11 +63,17 @@
         </p>
 
       </header>
-      <section>
+      <div class="site-body">
+        <aside class="left-nav">
+          {% if page.url == "/" %}
+            {% include left-nav.html %}
+          {% endif %}
+        </aside>
 
-      {{ content }}
-
-      </section>
+        <main class="content">
+          {{ content }}
+        </main>
+      </div>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>

@@ -2,7 +2,7 @@
 title: Home
 ---
 
-## Bio/Background
+## Bio/Background {#bio}
 My name is Steve Geinitz and I’m an associate professor of [Computer Science at
 Metropolitan State University of
 Denver](https://www.msudenver.edu/computer-sciences/). I hold a PhD in Applied
@@ -17,7 +17,7 @@ A full CV can be found [here](https://sgeinitz.github.io/cv/geinitz_cv.pdf).
 
 ___
 
-## Teaching
+## Teaching {#teaching}
 
 #### Spring 2026
 - CS 3120: Introduction to Machine Learning
@@ -39,7 +39,7 @@ ___
 
 
 
-## Projects/Research
+## Projects/Research {#projects}
 For interested students, there are a few projects available to work on. There
 may be funding available to work on these depending on the semester, but there
 is always the opportunity to extend these into a research project. Within MSU,
@@ -81,7 +81,7 @@ participation, understanding, and academic outcomes.
 ---
 
 
-## Publications/Presentations
+## Publications/Presentations {#publications}
 
 Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the
 Pedagogical Potential: An Investigation into Faculty and Students' Perceptions
