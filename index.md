@@ -27,10 +27,6 @@ ___
 - CS 4050: Algorithms and Algorithm Analysis
 - CS 3120: Introduction to Machine Learning
 
-#### Spring 2025
-- CS 4050: Algorithms and Algorithm Analysis
-- DSML 4220: Deep Learning
-
 #### Other Courses
 - CS 2050: Computer Science 2 - Data Structures
 - CS 3250: Intro to Software Development Methods and Tools
