@@ -1,3 +1,38 @@
-<style type="text/css"> 
-.padded img { padding-left: 35em; padding-right: 35em; } 
-</style>
+/* Custom site-specific styles */
+
+.padded img {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  vertical-align: middle;
+}
+
+/* Layout: keep left-nav and main content side-by-side on wider screens */
+.site-body {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+/* Sidebar */
+.left-nav {
+  width: 220px;
+  flex: 0 0 220px;
+  margin-right: 1rem;
+}
+
+/* Main content */
+.content {
+  flex: 1 1 auto;
+  min-width: 0; /* prevents overflow in flex children */
+}
+
+/* Responsive: stack on narrow screens */
+@media (max-width: 700px) {
+  .site-body {
+    display: block;
+  }
+  .left-nav {
+    width: auto;
+    margin-bottom: 1rem;
+  }
+}
