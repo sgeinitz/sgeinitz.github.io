@@ -24,8 +24,8 @@ ___
 - DSML 4220: Deep Learning
 
 #### Fall 2025
-- CS 4050: Algorithms and Algorithm Analysis
 - CS 3120: Introduction to Machine Learning
+- CS 4050: Algorithms and Algorithm Analysis
 
 #### Other Courses
 - CS 2050: Computer Science 2 - Data Structures
@@ -82,47 +82,39 @@ participation, understanding, and academic outcomes.
 
 
 ## Publications/Presentations {#publications}
+Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. (under review) _Exploring the
+Pedagogical Potential: An Investigation into Faculty and Students’ Perceptions of
+Integrating Generative AI in the Classroom)_.
 
-Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. _Exploring the
-Pedagogical Potential: An Investigation into Faculty and Students' Perceptions
-of Integrating Generative AI in the Classroom._ (under review).
+Geinitz, S. (2025, January). _ArguBot Arena: Prompt Engineering a Debate on
+Responsible AI_. The 16th Symposium on Educational Advances in
+Artificial Intelligence [(EAAI-2026)](https://eaai-conf.github.io); [Model AI Assignments
+Track](http://modelai.gettysburg.edu)
 
-Geinitz, S., _ArguBot Arena: Prompt Engineering a Debate on Responsible AI._
-[EAAI-2026](https://eaai-conf.github.io): The Sixteenth Symposium on
-Educational Advances in Artificial Intelligence; [Model AI Assignments
-Track](http://modelai.gettysburg.edu) (Jan 24-26, 2026). 
+Geinitz, S. (2025). _[Improving student learning and socialisation via technology-enhanced 
+collaboration](https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2026.150518)_. International Journal of Technology Enhanced Learning (IJTEL).
 
-Geinitz, S., Rajan, R., Peprah, K., Schmidt, K., Singh, S., Jay, S. _Generative
-AI as a Tool for Learning: Higher Education Student Perceptions and Performance
-across Disciplines._ International Conference on Intelligent Multimodal
-Communication and Learning Technologies, 2025 (in press). 
+Geinitz, S. (2024, September). _[Dynamic Duo: Enhancing Collaborative Learning
+Through Strategic Student Pairings](https://link.springer.com/chapter/10.1007/978-3-031-85652-5_3)_. In International Conference on Interactive
+Collaborative Learning (pp. 27-37). Cham: Springer Nature Switzerland.
 
-Geinitz, S. _Improving Student Learning and Socialization via
-Technology-Enhanced Collaboration._ International Journal of Technology
-Enhanced Learning, 2025 (in press). 
+Geinitz, S. (2023, September). _[PICA: A Data-Driven Synthesis of Peer Instruction
+and Continuous Assessment](https://link.springer.com/chapter/10.1007/978-3-031-74627-7_1)_. In Joint European Conference on Machine Learning
+and Knowledge Discovery in Databases (pp. 3-17). Cham: Springer Nature
+Switzerland.
 
-Geinitz, Steve. _Dynamic Duo: Enhancing Collaborative Learning Through
-Strategic Student Pairings._ International Conference on Interactive
-Collaborative Learning. Cham: Springer Nature Switzerland, 2024.
+Runge, J., Geinitz, S., and Ejdemyr, S. (2020). _[Experimentation and performance
+in advertising: An observational survey of firm practices on Facebook](https://www.sciencedirect.com/science/article/abs/pii/S095741742030378X)_. Expert
+Systems with Applications, 158, 113554.
 
-Geinitz, S. (2023, September). [PICA: A Data-Driven Synthesis of Peer
-Instruction and Continuous
-Assessment.](https://link.springer.com/chapter/10.1007/978-3-031-74627-7_1) In
-Joint European Conference on Machine Learning and Knowledge Discovery in
-Databases (pp. 3-17). Cham: Springer Nature Switzerland.
+Geinitz, S., Furrer, R., and Sain, S. R. (2015). _Bayesian multilevel analysis of
+variance for relative comparison across sources of global climate model variability_.
+International Journal of Climatology, 35(3).
 
-Runge, J., Geinitz, S. and Ejdemyr, S. Experimentation and Performance in
-Advertising: An Observational Survey of Firm Practices on Facebook. Expert
-Systems with Applications, 2020.
+Furrer, R., Geinitz, S., and Sain, S. R. (2012). _Assessing variance components of
+general circulation model output fields_. Environmetrics, 23(5), 440-450.
 
-Geinitz, S., Furrer, R. and Sain, S. R. Bayesian analysis of variance for
-relative assessment of general circulation model effect. International Journal
-of Climatology, 2014.
-
-Furrer, R., Geinitz, S. and Sain, S. R. Assessing variance components of
-general circulation model output fields. Environmetrics, 2012.
-
-Ward, T., Palmer, C., Houck, J., Navidi, W., Geinitz, S. and Noonan, C.
-Community Woodstove Changeout and Impact on Ambient Concentrations of
-Polycyclic Aromatic Hydrocarbons and Phenolics. Environmental Science and
-Technology, 2009.
+Ward, T. J., Palmer, C. P., Houck, J. E., Navidi, W. C., Geinitz, S., and Noonan, C.
+W. (2009). _Community woodstove changeout and impact on ambient concentrations
+of polycyclic aromatic hydrocarbons and phenolics_. Environmental science and
+technology, 43(14), 5345-5350
