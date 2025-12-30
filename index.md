@@ -86,8 +86,8 @@ Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. (under review) _Exploring
 Pedagogical Potential: An Investigation into Faculty and Students’ Perceptions of
 Integrating Generative AI in the Classroom)_.
 
-Geinitz, S. (2025, January). _ArguBot Arena: Prompt Engineering a Debate on
-Responsible AI_. The 16th Symposium on Educational Advances in
+Geinitz, S. (2025, January). _[ArguBot Arena: Prompt Engineering a Debate on
+Responsible AI](https://github.com/MSU-CS3120/argubot_arena)_. The 16th Symposium on Educational Advances in
 Artificial Intelligence [(EAAI-2026)](https://eaai-conf.github.io); [Model AI Assignments
 Track](http://modelai.gettysburg.edu)
 
