@@ -57,15 +57,16 @@
           <a href="https://www.linkedin.com/in/geinitz/"><img class="padded" src="{{site.profile_li | relative_url}}" alt="LinkedIn profile" /></a>
           <a href="https://scholar.google.com/citations?user=W2JkZY8AAAAJ&hl=en"><img class="padded" src="{{site.profile_gs | relative_url}}" alt="Google Scholar profile" /></a>
         </p>
-      </header>
 
-      <section>
-      <div class="site-body">
         {% if page.url == "/" %}
         <aside class="left-nav">
           {% include left-nav.html %}
         </aside>
         {% endif %}
+      </header>
+
+      <section>
+      <div class="site-body">
         <main class="content">
           {{ content }}
         </main>
