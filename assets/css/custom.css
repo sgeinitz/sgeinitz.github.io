@@ -1,6 +1,6 @@
 /* Custom site-specific styles */
 
-.padded img {
+img.padded {
   padding-left: 0.25rem;
   padding-right: 0.25rem;
   vertical-align: middle;
