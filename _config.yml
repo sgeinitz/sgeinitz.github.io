@@ -13,3 +13,5 @@ profile_rg: /img/researchgate32.png
 profile_gs: /img/googlescholar32.png
 page_css:
   - /assets/css/custom.css
+exclude:
+  - CLAUDE.md
