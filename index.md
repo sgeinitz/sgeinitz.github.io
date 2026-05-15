@@ -89,7 +89,7 @@ Integrating Generative AI in the Classroom)_.
 Geinitz, S. (2026, January). _[ArguBot Arena: Prompt Engineering a Debate on
 Responsible AI](https://github.com/MSU-CS3120/argubot_arena)_. The 16th Symposium on Educational Advances in
 Artificial Intelligence [(EAAI-2026)](https://eaai-conf.github.io); [Model AI Assignments
-Track](http://modelai.gettysburg.edu)
+Track](http://modelai.gettysburg.edu), [https://doi.org/10.1609/aaai.v40i48.42128](https://doi.org/10.1609/aaai.v40i48.42128)
 
 Geinitz, S., Rajan, R., Peprah, K., Schmidt, K.S., Singh, S., Jay, S. (2025, November - proceedings in press). 
 _Generative AI as a Tool for Learning: Higher Education Student Perceptions and Performance across Disciplines_.
