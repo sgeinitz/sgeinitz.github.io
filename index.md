@@ -82,43 +82,22 @@ participation, understanding, and academic outcomes.
 
 
 ## Publications/Presentations {#publications}
-Singh, S., Rajan, R., Geinitz, S., Peprah, K., Jay, S. (under review) _Exploring the
-Pedagogical Potential: An Investigation into Faculty and Students’ Perceptions of
-Integrating Generative AI in the Classroom)_.
+- Singh, S., Rajan, R., Geinitz, S., Peprah, K., and Jay, S. (under review). _Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom_.
 
-Geinitz, S. (2026, January). _[ArguBot Arena: Prompt Engineering a Debate on
-Responsible AI](https://github.com/MSU-CS3120/argubot_arena)_. The 16th Symposium on Educational Advances in
-Artificial Intelligence [(EAAI-2026)](https://eaai-conf.github.io); [Model AI Assignments
-Track](http://modelai.gettysburg.edu), [https://doi.org/10.1609/aaai.v40i48.42128](https://doi.org/10.1609/aaai.v40i48.42128)
+- Geinitz, S. (2026, January). _[ArguBot Arena: Prompt Engineering a Debate on Responsible AI](https://github.com/MSU-CS3120/argubot_arena)_. The 16th Symposium on Educational Advances in Artificial Intelligence [(EAAI-2026)](https://eaai-conf.github.io), [Model AI Assignments Track](http://modelai.gettysburg.edu). DOI: [10.1609/aaai.v40i48.42128](https://doi.org/10.1609/aaai.v40i48.42128).
 
-Geinitz, S., Rajan, R., Peprah, K., Schmidt, K.S., Singh, S., Jay, S. (2025, November - proceedings in press). 
-_Generative AI as a Tool for Learning: Higher Education Student Perceptions and Performance across Disciplines_.
-[In International Conference on Intelligent Multimodal Communication and Learning Technologies](https://www.imcl-conference.org/current/). Springer LNCS.
+- Geinitz, S., Rajan, R., Peprah, K., Schmidt, K. S., Singh, S., and Jay, S. (2025, November; proceedings in press). _Generative AI as a Tool for Learning: Higher Education Student Perceptions and Performance across Disciplines_. [International Conference on Intelligent Multimodal Communication and Learning Technologies](https://www.imcl-conference.org/current/). Springer LNCS.
 
-Geinitz, S. (2025). _[Improving student learning and socialisation via technology-enhanced 
-collaboration](https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2026.150518)_. International Journal of Technology Enhanced Learning (IJTEL).
+- Geinitz, S. (2026). _Improving student learning and socialisation via technology-enhanced collaboration_. International Journal of Technology Enhanced Learning, 18(1), 1-15. DOI: [10.1504/IJTEL.2026.150518](https://doi.org/10.1504/IJTEL.2026.150518).
 
-Geinitz, S. (2024, September). _[Dynamic Duo: Enhancing Collaborative Learning
-Through Strategic Student Pairings](https://link.springer.com/chapter/10.1007/978-3-031-85652-5_3)_. In International Conference on Interactive
-Collaborative Learning (pp. 27-37). Cham: Springer Nature Switzerland.
+- Geinitz, S. (2025). _Dynamic Duo: Enhancing Collaborative Learning Through Strategic Student Pairings_. In _Futureproofing Engineering Education for Global Responsibility_ (Lecture Notes in Networks and Systems, Vol. 1260, pp. 27-37). Springer, Cham. DOI: [10.1007/978-3-031-85652-5_3](https://doi.org/10.1007/978-3-031-85652-5_3).
 
-Geinitz, S. (2023, September). _[PICA: A Data-Driven Synthesis of Peer Instruction
-and Continuous Assessment](https://link.springer.com/chapter/10.1007/978-3-031-74627-7_1)_. In Joint European Conference on Machine Learning
-and Knowledge Discovery in Databases (pp. 3-17). Cham: Springer Nature
-Switzerland.
+- Geinitz, S. (2025). _PICA: A Data-Driven Synthesis of Peer Instruction and Continuous Assessment_. In _Machine Learning and Principles and Practice of Knowledge Discovery in Databases_ (Communications in Computer and Information Science, Vol. 2134, pp. 3-17). Springer, Cham. DOI: [10.1007/978-3-031-74627-7_1](https://doi.org/10.1007/978-3-031-74627-7_1).
 
-Runge, J., Geinitz, S., and Ejdemyr, S. (2020). _[Experimentation and performance
-in advertising: An observational survey of firm practices on Facebook](https://www.sciencedirect.com/science/article/abs/pii/S095741742030378X)_. Expert
-Systems with Applications, 158, 113554.
+- Runge, J., Geinitz, S., and Ejdemyr, S. (2020). _Experimentation and performance in advertising: An observational survey of firm practices on Facebook_. Expert Systems with Applications, 158, 113554. DOI: [10.1016/j.eswa.2020.113554](https://doi.org/10.1016/j.eswa.2020.113554).
 
-Geinitz, S., Furrer, R., and Sain, S. R. (2015). _Bayesian multilevel analysis of
-variance for relative comparison across sources of global climate model variability_.
-International Journal of Climatology, 35(3).
+- Geinitz, S., Furrer, R., and Sain, S. R. (2015). _Bayesian multilevel analysis of variance for relative comparison across sources of global climate model variability_. International Journal of Climatology, 35(3), 433-443. DOI: [10.1002/joc.3991](https://doi.org/10.1002/joc.3991).
 
-Furrer, R., Geinitz, S., and Sain, S. R. (2012). _Assessing variance components of
-general circulation model output fields_. Environmetrics, 23(5), 440-450.
+- Furrer, R., Geinitz, S., and Sain, S. R. (2012). _Assessing variance components of general circulation model output fields_. Environmetrics, 23(5), 440-450. DOI: [10.1002/env.2139](https://doi.org/10.1002/env.2139).
 
-Ward, T. J., Palmer, C. P., Houck, J. E., Navidi, W. C., Geinitz, S., and Noonan, C.
-W. (2009). _Community woodstove changeout and impact on ambient concentrations
-of polycyclic aromatic hydrocarbons and phenolics_. Environmental science and
-technology, 43(14), 5345-5350
+- Ward, T. J., Palmer, C. P., Houck, J. E., Navidi, W. C., Geinitz, S., and Noonan, C. W. (2009). _Community woodstove changeout and impact on ambient concentrations of polycyclic aromatic hydrocarbons and phenolics_. Environmental Science & Technology, 43(14), 5345-5350. DOI: [10.1021/es8035253](https://doi.org/10.1021/es8035253).
