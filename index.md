@@ -50,15 +50,15 @@ Conference](https://www.msudenver.edu/undergraduate-research-creative-scholarshi
 or a publication in an academic journal.
 
 #### Canvigator: A digital teaching assistant for Canvas
-[Canvigator](https://github.com/sgeinitz/canvigator) is an evolving piece of
-software built on top of the Canvas LMS that provides additional utilities and
-enhances tried-and-true instructional methods. Longer-term development goals
-include the integration of machine learning models that can provide
-personalized follow-up assessments, predict student performance trajectories,
-and provide the instructor with detailed insights about how students are
-progressing through the course content.
+[Canvigator](https://github.com/sgeinitz/canvigator) is an evolving
+terminal-based digital teaching assistant built on top of the Canvas LMS. It
+combines Canvas automation with research workflows for peer instruction,
+continuous assessment, and learning analytics, including collaborative quiz
+pairing, retake and partner incentives, LLM-assisted follow-up questions,
+assessment of student audio or drawing replies, media-recording check-ins, and
+pre-class digests that summarize emerging cohort-level gaps.
 
-* Benefits and usage examples: By automating collaborative quizzes, intelligently assigning student pairs, generating tailored follow-up questions, and analyzing quiz outcomes to highlight where students may need support, Canvigator helps reduce administrative overhead and provides richer visibility into class learning patterns.
+* Benefits and usage examples: By automating collaborative quizzes, intelligently assigning student pairs, generating tailored follow-up questions, managing Canvas messages, analyzing quiz and media-recording responses, and surfacing class-level patterns before the next meeting, Canvigator helps reduce administrative overhead and provides richer visibility into student learning.
 
 * Skills a student researcher needs to contribute: Useful preparation includes Python programming and basic software-engineering practices. Experience with machine learning and/or data analysis is helpful but not required. More importantly, a curiosity about learning analytics and a willingness to work iteratively on applied software systems is what is needed.
 
