@@ -84,6 +84,8 @@ participation, understanding, and academic outcomes.
 ## Publications/Presentations {#publications}
 - Singh, S., Rajan, R., Geinitz, S., Peprah, K., and Jay, S. (under review). _Exploring the Pedagogical Potential: An Investigation into Faculty and Students' Perceptions of Integrating Generative AI in the Classroom_.
 
+- Geinitz, S. (accepted). _Do Online Quiz-Taking Behaviors Matter? An Event-Level Log Analysis in Computer Science Courses_. [Educational Data Mining 2026](https://educationaldatamining.org/edm2026/), Poster Track.
+
 - Geinitz, S. (2026, January). _[ArguBot Arena: Prompt Engineering a Debate on Responsible AI](https://github.com/MSU-CS3120/argubot_arena)_. The 16th Symposium on Educational Advances in Artificial Intelligence [(EAAI-2026)](https://eaai-conf.github.io), [Model AI Assignments Track](http://modelai.gettysburg.edu). DOI: [10.1609/aaai.v40i48.42128](https://doi.org/10.1609/aaai.v40i48.42128).
 
 - Geinitz, S., Rajan, R., Peprah, K., Schmidt, K. S., Singh, S., and Jay, S. (2025, November; proceedings in press). _Generative AI as a Tool for Learning: Higher Education Student Perceptions and Performance across Disciplines_. [International Conference on Intelligent Multimodal Communication and Learning Technologies](https://www.imcl-conference.org/current/). Springer LNCS.
