@@ -19,6 +19,9 @@ ___
 
 ## Teaching {#teaching}
 
+#### Fall 2026
+- DSML 190A: AI Fundamentals
+
 #### Spring 2026
 - CS 3120: Introduction to Machine Learning
 - DSML 4220: Deep Learning
